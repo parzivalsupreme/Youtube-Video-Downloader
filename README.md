@@ -3,7 +3,7 @@
 This is a simple Python program that allows users to download YouTube videos by entering the URL of the video. The program also includes a text-to-speech feature that speaks messages to the user.
 
 ### Prerequisites
-- Python 3.x
+- Python 3
 - pytube library: ```pip install pytube```
 - pyttsx3 library: ```pip install pyttsx3```
 
